@@ -1,5 +1,5 @@
 {
-	"name": "Material Darker High Contrast Tweak",
+	"name": "based-material-darker-hc",
     "$schema": "vscode://schemas/color-theme",
     "type": "dark",
     "colors": {
