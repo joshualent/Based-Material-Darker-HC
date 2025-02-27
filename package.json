@@ -1,0 +1,21 @@
+{
+  "name": "material-darker-high-contrast-tweak",
+  "displayName": "Material Darker High Contrast Tweak",
+  "description": "Tweak of Material Theme Darker High Contrast",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Material Darker High Contrast Tweak",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Material Darker High Contrast Tweak-color-theme.json"
+      }
+    ]
+  }
+}
