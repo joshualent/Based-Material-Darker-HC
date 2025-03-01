@@ -3,7 +3,7 @@
   
 ### A Based Tweak of Material Darker Theme High Contrast
 
-![Theme preview](https://github.com/joshualent/https://github.com/joshualent/Based-Material-Darker-HC/blob/main/themepreview.png)
+![Theme preview](https://github.com/joshualent/Based-Material-Darker-HC/blob/main/themepreview.png)
 
 Just another Dark Theme for VSCode. This theme provides great contrast for anyone looking for an enjoyable development experience. **Ice blue accents**.
 
