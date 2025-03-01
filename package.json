@@ -1,18 +1,21 @@
 {
-  "name": "material-darker-high-contrast-tweak",
-  "displayName": "Based Material Darker Theme",
-  "description": "Great Dark VSCode Theme with great colors and perfect contrast",
+  "name": "ice-material-darker-theme",
+  "displayName": "Ice Material Darker Theme",
+  "description": "Great Dark VSCode Theme with stylish colors and perfect contrast",
   "version": "1.0.1",
   "publisher": "joshisfrog",
   "repository": {
     "type": "git",
     "url": "https://github.com/joshualent/Based-Material-Darker-HC"
   },
+  "icon": "icon.png",
   "keywords": [
     "theme",
     "dark theme",
     "material dark theme",
     "material darker theme high contrast",
+    "dark ice blue",
+    "dark theme high contrast blue",
     "joshisfrog"
   ],
   "engines": {
